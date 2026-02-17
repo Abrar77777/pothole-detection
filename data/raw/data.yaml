@@ -1,0 +1,9 @@
+path: data/raw
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 1
+names:
+  - pothole
+

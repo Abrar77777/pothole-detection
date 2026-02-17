@@ -1,0 +1,23 @@
+# Virtual Environment
+venv/
+
+# YOLO training outputs
+runs/
+
+# Output files
+outputs/
+debug/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Large videos
+videos/
+
+# Model weights
+*.pt
