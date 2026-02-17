@@ -21,3 +21,9 @@ videos/
 
 # Model weights
 *.pt
+data/
+potholes-1/
+videos/
+runs/
+outputs/
+*.pt
