@@ -18,7 +18,16 @@ Framework: Ultralytics YOLOv8
 
 Classes: 1 (pothole)
 
-Dataset: Roboflow annotated dataset
+## Dataset
+
+The dataset is downloaded from Roboflow.
+
+To download:
+
+1. Create a Roboflow account
+2. Export in YOLOv8 format
+3. Place inside data/raw/
+
 
 Evaluation Metrics:
 
